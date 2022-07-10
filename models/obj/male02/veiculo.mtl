@@ -1,0 +1,97 @@
+# Blender MTL File: 'veiculo.blend'
+# Material Count: 9
+
+newmtl CAUCHOS
+Ns 102.228825
+Ka 1.000000 1.000000 1.000000
+Kd 0.010021 0.001704 0.001210
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\s.shlykov\\Downloads\\textura\\caucho.png
+
+newmtl Material.002
+Ns 551.765783
+Ka 1.000000 1.000000 1.000000
+Kd 0.010021 0.001704 0.001210
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\vegetacion\\ducati\\unnamed.jpg
+
+newmtl Material.013
+Ns 359.999993
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl faro
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.012919 0.006109
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\s.shlykov\\Downloads\\textura\\faro.jpg
+
+newmtl hierro
+Ns 524.165869
+Ka 1.000000 1.000000 1.000000
+Kd 0.288293 0.288293 0.288293
+Ks 0.551282 0.551282 0.551282
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\s.shlykov\\Downloads\\textura\\hierro.jpg
+
+newmtl pantalla_y_volante_
+Ns 224.276325
+Ka 1.000000 1.000000 1.000000
+Kd 0.010021 0.001704 0.001210
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\s.shlykov\\Downloads\\textura\\delantera.png
+
+newmtl pintura_de_ducati_3
+Ns 875.903990
+Ka 1.000000 1.000000 1.000000
+Kd 0.106532 0.106532 0.106532
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\s.shlykov\\Downloads\\textura\\pintura (3).png
+
+newmtl plastico
+Ns 350.036544
+Ka 0.601672 0.601672 0.601672
+Kd 0.800000 0.012919 0.006109
+Ks 0.692308 0.692308 0.692308
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\s.shlykov\\Downloads\\textura\\plastico.png
